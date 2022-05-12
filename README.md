@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rithinjacob
-- 👀 I’m interested in ...any job in information technology, but personally i love the NBA :)     
+- 👀 I’m interested in ...any job in information technology
 - 🌱 I’m currently learning ...pyhton and ruby on rails
 - 💞️ I’m looking to collaborate on ... anything that can change the world for the better
 - 📫 How to reach me ... rithinjacob@gmail.com
